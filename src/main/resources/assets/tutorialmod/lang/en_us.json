@@ -1,3 +1,4 @@
 {
-  "item.tutorialmod.example_item": "Madame Nubls"
+  "item.tutorialmod.example_item": "Madame Nubls",
+  "block.tutorialmod.example_block": "Example Block"
 }
